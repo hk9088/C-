@@ -1,2 +1,2 @@
-# C-
+# C++
 Some randmon C++ codes
