@@ -10,7 +10,7 @@ int main(){
     cin>>mi;
     cout<<"Max[exclusive]: ";
     cin>>ma;
-    cout<<"Size of array[Must not be greater than Max]: ";
+    cout<<"Size of array[Must not be greater than (Max-Min)]: ";
     cin>>n;
     int arr[n];
     for(int j=0 ;j<n;j++)
